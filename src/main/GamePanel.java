@@ -363,8 +363,7 @@ public class GamePanel extends JPanel implements Runnable{
             ui.draw(g2);
     
             // ✅ Only draw the player **if not in title screen**
-            if (gameState != titleState) {
-                System.out.println("📌 Attempting to draw player...");
+            if (gameState == playState) { // Draw only in play state
                 player.draw(g2);
             }
         }
