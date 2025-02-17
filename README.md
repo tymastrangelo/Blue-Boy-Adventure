@@ -13,7 +13,7 @@
 - **💾 Save & Load** – Progress is stored so you can continue your adventure anytime.  
 
 ![Key Bindings](https://user-images.githubusercontent.com/72252419/210120664-1d54d2c5-d4eb-4892-8b67-d9acfd206113.jpg)
-Image Credits: [berkayw]https://github.com/berkayw/Blue-Boy-Adventure/commits?author=berkayw)
+Image Credits: [berkayw](https://github.com/berkayw/Blue-Boy-Adventure/commits?author=berkayw)
 
 ## 🕹️ Controls  
 - **Arrow Keys / WASD** – Move  
