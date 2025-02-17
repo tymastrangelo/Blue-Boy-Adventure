@@ -53,9 +53,7 @@ public class UI {
             }
             purisaB = Font.createFont(Font.TRUETYPE_FONT, is).deriveFont(24f);
         
-            System.out.println("✅ Fonts loaded successfully!");
         } catch (Exception e) {
-            System.out.println("❌ ERROR: Font loading failed!");
             e.printStackTrace();
         }
 

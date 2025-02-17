@@ -28,12 +28,6 @@ public class TileManager  {
         //READ TILE DATA FILE
         InputStream is = getClass().getResourceAsStream("/maps/tiledata.txt");
 
-        if (is == null) {
-            System.out.println("❌ ERROR: Could not find /maps/tiledata.txt");
-        } else {
-            System.out.println("✅ Found /maps/tiledata.txt");
-        }
-
         BufferedReader br = new BufferedReader(new InputStreamReader(is));
 
         //GETTING TILE NAMES AND COLLISION INFO FROM THE FILE
