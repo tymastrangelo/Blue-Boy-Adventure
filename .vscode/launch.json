@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch My2DGame1",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "vmArgs": "--class-path \"${workspaceFolder}/bin:${workspaceFolder}/res\""
+        }
+    ]
+}
