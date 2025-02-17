@@ -1,4 +1,4 @@
-# Blue Boy Adventure
+# Blue Boy Adventure  
 
 ![Game Screenshot](res/game.png)  
 
@@ -14,22 +14,38 @@
 
 ## 🕹️ Controls  
 - **Arrow Keys / WASD** – Move  
-
 - **Spacebar** – Defend  
-- **Enter** – Attack 
-- **F** – Fireball 
-
-- **C** – Inventory
-- **P** – Pause
-- **M** – Map
-- **X** – Minimap
-
+- **Enter** – Attack  
+- **F** – Fireball  
+- **C** – Inventory  
+- **P** – Pause  
+- **M** – Map  
+- **X** – Minimap  
 - **ESC** – Open Menu  
-- **T** – Debug 
+- **T** – Debug  
 
 ## 🛠️ Installation & Running the Game  
 ### Prerequisites  
-- Add **later**
+- Ensure you have **Java** installed on your system.  
+
+### How to Run  
+1. **Download the repository**  
+   - Click on the **Code** button at the top of this repository.  
+   - Select **Download ZIP** and save the file to your computer.  
+
+2. **Extract the ZIP file**  
+   - Unzip the file and open the extracted folder.  
+
+3. **Open the project in a code editor**  
+   - Drag the folder into **VS Code**, **IntelliJ IDEA**, or another Java-supported editor.  
+
+4. **Run the game using the terminal**  
+   - Open a terminal in the project directory.  
+   - Enter the following command:  
+     ```sh
+     java --class-path bin:res main.Main
+     ```
+   - Press **Enter**, and the game should start!  
 
 ## 🎥 Credits  
-[RyiSnow Tutorial](https://www.youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq)
+This game was developed with the help of the [RyiSnow Tutorial](https://www.youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq).  
